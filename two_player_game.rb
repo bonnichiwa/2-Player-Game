@@ -1,5 +1,5 @@
-@norma = 3
-@red = 3
+# @norma = 3
+# @red = 3
 
 def norma_life
   @norma -= 1
